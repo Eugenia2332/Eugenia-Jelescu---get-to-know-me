@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #F1D3B3;
+    line-height: 3;
+
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #F1D3B3;
+    font-weight: normal;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #F1D3B3;
+}
+p {
+    font-family: Baskerville;
+    color: #594545;
+    font-size: 1.35rem;
+}
+.top-container {
+    background-color: #65647C;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container {
+    background-color: #F8EDE3 ;
+}
+.bottom-container {
+    background-color: #7D6E83 ;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.second-font {
+    font-family: 'Montserrat', sans-serif;
+    color: #65647C;
+    font-size: 1.30rem;
+}
+.last-phrase {
+    font-family: Baskerville;
+    color: #594545;
+    font-size: 1.35rem;
+    margin-top: 50px;
+}
+.c {
+    font-family: Baskerville;
+    color: #411530;
+    font-size: 1.30rem;
+    margin-top: 60px;
+}
+button {
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: #85586F;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+button:hover {
+    background-color: #D0B8A8;
+    transition: 0.4s;
+}
+a {
+    color: #D0B8A8;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 1.20rem;
+    
+}
+
+.croissant {
+    position: absolute;
+    left: 100px;
+    bottom: 200px;
+    width: 18%;
+}
+.moka {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+    width: 18%;
+}
+.coffee-bag {
+    position: absolute;
+    right: 100px;
+    bottom: 200px;
+    width: 18%;
+}
+
+.beans {
+    position: absolute;
+    left: 100px;
+    bottom: 600px;
+    width: 18%;
+    }
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 3;
+}
+.design {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    padding: 10px;
+}
+.language {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.music {
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+.bake {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.drinking-coffee {
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+.woman {
+    width: 30%;
+}
+.coffee {
+    width: 30%
+}
+.clue {
+    width: 15%;
+}
